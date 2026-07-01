@@ -187,6 +187,13 @@ GPT-SoVITS/                      # 语音模型（覆盖到 GSV 根目录）
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)：用于语音合成。许可协议：MIT
 - [Ren'Py](https://www.renpy.org/)：视觉小说引擎。许可协议：MIT
 
+
+## 致谢
+
+- 原游戏作者：[dodonga](https://dodonga.itch.io/)
+- 原游戏下载地址：https://dodonga.itch.io/my-maid-dream-of-electric-sheep
+
+
 ## 问题排查
 
 - **AI Chat 选项未出现**
